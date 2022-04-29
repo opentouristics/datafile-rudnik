@@ -4,8 +4,8 @@
     "lat": 50.127654,
     "lng": 18.187804
   },
-  "contributors": [],
+  "contributors": ["Tomasz Kruppa", "Zygmunt Kandora"],
   "featured": ["Rudnik", "cała gmina Rudnik"],
-  "sources": [],
-  "links": []
+  "sources": ["https://gmina-rudnik.pl"],
+  "links": ["https://gmina-rudnik.pl"]
 }
