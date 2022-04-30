@@ -1,10 +1,10 @@
 {
   "id": "czerwiecice_palac",
   "section": "heritage",
-  "icon": "ic_placeholder",
+  "icon": "ic_czerwiecice_palac",
   "lat": 50.15673,
   "lng": 18.1822,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["czerwiecice_palac_1"]
 }
