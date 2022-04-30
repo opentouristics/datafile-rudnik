@@ -1,10 +1,10 @@
 {
-  "id": "kosciol_lubowice",
+  "id": "lubowice_kosciol",
   "section": "heritage",
-  "icon": "ic_kosciol_lubowice",
+  "icon": "ic_lubowice_kosciol",
   "lat": 50.16062,
   "lng": 18.230335,
   "website_url": "https://gmina-rudnik.pl/co-warto-zobaczyc-2/",
   "facebook_url": null,
-  "images": ["kosciol_lubowice_1", "kosciol_lubowice_2"]
+  "images": ["lubowice_kosciol_1", "lubowice_kosciol_2"]
 }

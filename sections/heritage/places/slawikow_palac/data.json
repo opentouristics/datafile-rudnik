@@ -1,10 +1,10 @@
 {
-  "id": "palac_w_slawikowie",
+  "id": "slawikow_palac",
   "section": "heritage",
-  "icon": "ic_palac_w_slawikowie",
+  "icon": "ic_slawikow_palac",
   "lat": 50.18526,
   "lng": 18.21893,
   "website_url": null,
   "facebook_url": null,
-  "images": ["palac_w_slawikowie_1"]
+  "images": ["slawikow_palac_1"]
 }
