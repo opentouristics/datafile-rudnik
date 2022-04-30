@@ -1,10 +1,10 @@
 {
   "id": "modzurow_palac",
   "section": "heritage",
-  "icon": "ic_placeholder",
+  "icon": "ic_modzurow_palac",
   "lat": 50.15642,
   "lng": 18.13334,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["modzurow_palac_1"]
 }
