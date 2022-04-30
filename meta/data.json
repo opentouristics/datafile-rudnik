@@ -5,7 +5,11 @@
     "lng": 18.187804
   },
   "contributors": ["Tomasz Kruppa", "Zygmunt Kandora"],
-  "featured": ["Rudnik", "cała gmina Rudnik"],
-  "sources": ["https://gmina-rudnik.pl"],
-  "links": ["https://gmina-rudnik.pl"]
+  "featured": ["Rudnik", "Sławików"],
+  "sources": [
+    { "name": "Gmina Rudnik", "website_url": "https://gmina-rudnik.pl" }
+  ],
+  "links": [
+    { "name": "Gmina Rudnik", "website_url": "https://gmina-rudnik.pl" }
+  ]
 }
