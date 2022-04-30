@@ -34,8 +34,8 @@ jobs:
       - name: Checkout datafile repo
         uses: actions/checkout@v3
         with:
-          repository: bartekpacia/datafile-rudy
-          path: "datafiles/datafile-rudy"
+          repository: bartekpacia/datafile-${{ env.DATAFILE_ID }}
+          path: datafiles/datafile-${{ env.DATAFILE_ID }}
           lfs: true
 
       - name: Create service account file
