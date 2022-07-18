@@ -7,9 +7,15 @@
   "contributors": ["Tomasz Kruppa", "Zygmunt Kandora"],
   "featured": ["Rudnik", "Sławików"],
   "sources": [
-    { "name": "Gmina Rudnik", "website_url": "https://gmina-rudnik.pl" }
+    {
+      "name": { "pl": "Gmina Rudnik" },
+      "website_url": "https://gmina-rudnik.pl"
+    }
   ],
   "links": [
-    { "name": "Gmina Rudnik", "website_url": "https://gmina-rudnik.pl" }
+    {
+      "name": { "pl": "Gmina Rudnik" },
+      "website_url": "https://gmina-rudnik.pl"
+    }
   ]
 }
