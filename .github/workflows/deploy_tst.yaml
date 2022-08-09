@@ -34,7 +34,7 @@ jobs:
         with:
           fileDir: ${{ github.workspace }}
           fileName: key.json
-          encodedString: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON_BASE64 }}
+          encodedString: ${{ secrets.SERVICE_ACCOUNT_KEY_BASE64 }}
 
       - name: Install Go
         uses: actions/setup-go@v3
