@@ -1,10 +1,10 @@
 {
   "id": "wiata_w_modzurowie",
   "section": "interesting_places",
-  "icon": "ic_placeholder",
+  "icon": "ic_wiata_w_modzurowie",
   "lat": 50.15755,
   "lng": 18.13552,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["wiata_w_modzurowie_1"]
 }

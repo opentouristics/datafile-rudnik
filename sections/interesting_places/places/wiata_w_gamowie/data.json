@@ -1,10 +1,10 @@
 {
   "id": "wiata_w_gamowie",
   "section": "interesting_places",
-  "icon": "ic_placeholder",
+  "icon": "ic_wiata_w_gamowie",
   "lat": 50.13779,
   "lng": 18.12535,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["wiata_w_gamowie_1"]
 }
