@@ -1,10 +1,10 @@
 {
   "id": "wiata_w_brzeznicy",
   "section": "interesting_places",
-  "icon": "ic_placeholder",
+  "icon": "ic_wiata_w_brzeznicy",
   "lat": 50.14257,
   "lng": 18.21011,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["wiata_w_brzeznicy_1"]
 }
