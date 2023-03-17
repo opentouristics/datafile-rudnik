@@ -1,10 +1,10 @@
 {
   "id": "kapliczka_swietego_bartlomieja",
   "section": "heritage",
-  "icon": "ic_placeholder",
+  "icon": "ic_kapliczka_swietego_bartlomieja",
   "lat": 50.15701,
   "lng": 18.2238,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["kapliczka_swietego_bartlomieja_1"]
 }

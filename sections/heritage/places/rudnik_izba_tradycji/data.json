@@ -1,10 +1,10 @@
 {
   "id": "rudnik_izba_tradycji",
   "section": "heritage",
-  "icon": "ic_placeholder",
+  "icon": "ic_rudnik_izba_tradycji",
   "lat": 50.12642,
   "lng": 18.18513,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["rudnik_izba_tradycji_1"]
 }

@@ -12,6 +12,10 @@
   "links": [
     { "name": "Gmina Rudnik", "website_url": "https://gmina-rudnik.pl" },
     {
+      "name": "Co warto zobaczyć?",
+      "website_url": "https://gmina-rudnik.pl/co-warto-zobaczyc-2"
+    },
+    {
       "name": "Jakość powietrza w Rudniku",
       "website_url": "http://www.telemetria.tech/cz24.php?16"
     }
