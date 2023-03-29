@@ -30,3 +30,8 @@ Zabytki i atrakcje:
 - Pomnik przyrody Hranečník: Stary las mieszany z przewagą sosny zwyczajnej
   został ogłoszony w 1990 roku jako ochrona dużej kolonii lęgowej czapli siwej.
   Od 2010 roku prowadzi tam ścieżka dydaktyczna Píšť z centrum wsi.
+
+![](czeska_gmina_1)
+![](czeska_gmina_2)
+![](czeska_gmina_3)
+![](czeska_gmina_4)

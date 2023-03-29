@@ -26,3 +26,8 @@ Památky a zajímavosti v obci:
 - Přírodní památka Hranečník: Starý smíšený les s převahou borovice lesní byl v
   roce 1990 vyhlášen pro ochranu početné hnízdní kolonie volavky popelavé. Od
   roku 2010 tam vede z centra obce Naučná stezka Píšť.
+
+![](czeska_gmina_1)
+![](czeska_gmina_2)
+![](czeska_gmina_3)
+![](czeska_gmina_4)
